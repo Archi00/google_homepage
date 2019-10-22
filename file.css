@@ -11,3 +11,10 @@ li {
     padding: 5px;
 }
 
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    max-height: 30%;
+}
