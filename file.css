@@ -1,0 +1,33 @@
+#search-box {
+    bottom: 0;
+    color: rgb(117, 117, 117);
+    font-size: 16px;
+    height: 44px;
+    left: 0;
+    line-height: 44px;
+    margin: auto 0;
+    overflow: hidden;
+    padding-inline-start: 48px;
+    position: absolute;
+    right: 44px;
+    text-align: initial;
+    text-overflow: ellipsis;
+    top: 0;
+    vertical-align: middle;
+    visibility: inherit;
+    white-space: nowrap;
+}
+
+html{
+    --md-tile-margin: 16px;
+    --md-tile-size: 112px;
+    --logo-height: 200px;
+    --logo-margin-top: 56px;
+    --logo-margin-bottom: 38px;
+    --logo-iframe-initial-height: var(--logo-height);
+    --logo-iframe-height: var(--logo-height);
+    --logo-iframe-resize-duration: 150ms;
+    --logo-iframe-width: 500px;
+    --mv-notice-time: 10s;
+    
+}
