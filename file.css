@@ -18,16 +18,15 @@
     white-space: nowrap;
 }
 
-html{
-    --md-tile-margin: 16px;
-    --md-tile-size: 112px;
-    --logo-height: 200px;
-    --logo-margin-top: 56px;
-    --logo-margin-bottom: 38px;
-    --logo-iframe-initial-height: var(--logo-height);
-    --logo-iframe-height: var(--logo-height);
-    --logo-iframe-resize-duration: 150ms;
-    --logo-iframe-width: 500px;
-    --mv-notice-time: 10s;
-    
+#logo{
+bottom:50px;
+color:rgb(0, 0, 0);
+cursor:default;
+display:block;
+font-family:"Segoe UI", Roboto, arial, sans-serif;
+font-size:13px;
+height:92px;
+left:243px;
+position:absolute;
+width:272px;
 }
