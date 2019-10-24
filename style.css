@@ -1,16 +1,10 @@
 ul {
 list-style: none;
-text-align: center;
-display: inline-block;
 }
 
-header {
-width: 100%;
-padding-right: 0;
-padding-top: 0;
+li {
+display: inline;
 }
 
-footer {
-padding-bottom: 0;
-padding-right: 0;
-}
+
+
