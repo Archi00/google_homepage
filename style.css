@@ -2,10 +2,13 @@
 /* Lists */
 ul {
     list-style: none;
+    right: 0;
+    padding-right: 0;
 }
 
 li {
     display: inline;
+   
 
 }
 
