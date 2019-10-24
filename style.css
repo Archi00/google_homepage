@@ -1,10 +1,20 @@
+
+/* Lists */
 ul {
-list-style: none;
+    list-style: none;
 }
 
 li {
-display: inline;
+    display: inline;
+
 }
 
-
-
+/* Central part */
+#google {
+    text-align: center;
+    margin: 0;
+    display: block;
+    clear: both;
+    padding-top: 112px;
+    padding-bottom: 20px;
+}
