@@ -8,8 +8,10 @@ ul {
 
 li {
     display: inline;
-   
+   }
 
+li #sign-in {
+    margin-right: 18px;
 }
 
 /* Central part */
