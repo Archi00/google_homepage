@@ -78,7 +78,36 @@ li#sign-in:hover {
 
 .buttons {
     text-align: center;
-    padding: 20px;
+    padding-top: 30px;
+    margin-bottom: 300px;
 }
 
+/* Footer */
+Footer {
+    background: #f2f2f2;
+    border-top: solid 2px #e4e4e4;
+    position: fixed;
+    bottom: 0;
+    padding-bottom: 0;  
+    width: 100%;
+}
 
+footer ul li {
+    display: inline;
+    color: grey;
+    padding: 13px;
+    font-size: 14px;
+}
+
+footer ul {
+    float: left;
+    padding: 3px;
+    margin: 5px;
+}
+
+footer li:hover {
+    text-decoration: underline;
+}
+.footer-right {
+    float: right;
+}
