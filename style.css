@@ -76,3 +76,9 @@ li#sign-in:hover {
     padding: 0 8px;
 }
 
+.buttons {
+    text-align: center;
+    padding: 20px;
+}
+
+
