@@ -1,5 +1,4 @@
 /* Basic styles */
-
 body {
     margin: 0;
     padding: 0;
@@ -14,3 +13,42 @@ ul {
     list-style: none;
 }
 
+/* Nav bar */
+#top {
+    float: right;
+}
+
+#top li {
+    display: inline-block;
+    padding: 8px;
+}
+
+#top #sign-in {
+    background-color: blue;
+    margin-right: 25px;
+    padding: 7px 13px;
+    border-radius: 4px;
+}
+
+.nav-link {
+    color: gray;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+li.nav-link a:hover {
+    text-decoration: underline;
+}
+
+li#sign-in:hover {
+    box-shadow: 1px 1px 5px #999;
+}
+
+#sign-in {
+    color: white;
+}
+
+/* Google image!!*/
