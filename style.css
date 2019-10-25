@@ -52,3 +52,27 @@ li#sign-in:hover {
 }
 
 /* Google image!!*/
+
+.google #google-logo {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    clear: both;
+    padding-top: 120px;
+    padding-bottom: 20px;
+}
+
+.form {
+    text-align: center;
+}
+
+#form-search {
+    width: 450px;
+    line-height: 32px;
+    padding: 20px 10px;
+}
+
+.form #form-search {
+    padding: 0 8px;
+}
+
